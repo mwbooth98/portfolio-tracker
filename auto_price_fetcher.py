@@ -102,12 +102,8 @@ def get_bitcoin_price():
         
         current_price = current_data['Close'].iloc[-1]
         
-        # Get historical price for Sep 19, 2025
-        historical = btc.history(start='2025-09-24', end='2025-09-26')
-        if not historical.empty:
-            baseline_price = historical['Close'].iloc[0]
-        else:
-            baseline_price = 152032.05  # Fallback
+        # Set historical price for Sep 19, 2025
+        baseline_price = 152032.05  
         
         return {
             'ticker': 'BTC-CAD',

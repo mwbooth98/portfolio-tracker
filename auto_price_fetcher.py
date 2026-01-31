@@ -31,7 +31,7 @@ STOCKS = {
     'DNNGY': 'DNNGY',          # Orsted ADR
 }
 
-# September 19, 2024 baseline prices (you'll need to fill these in)
+# September 19, 2025 baseline prices (you'll need to fill these in)
 BASELINE_PRICES = {
     'PPL': 54.43,
     'SHOP':211.60 ,
@@ -53,7 +53,7 @@ BASELINE_PRICES = {
     'DNNGY': 10.66,
 }
 
-BASELINE_DATE = '2024-09-19'
+BASELINE_DATE = '2025-09-19'
 
 def get_stock_data(ticker, yahoo_ticker):
     """Fetch current price and dividends for a stock"""
@@ -71,7 +71,7 @@ def get_stock_data(ticker, yahoo_ticker):
         # Get dividends since baseline date
         dividends = stock.dividends
         if not dividends.empty:
-            # Filter dividends after Sep 19, 2024
+            # Filter dividends after Sep 19, 2025
             dividends_since_baseline = dividends[dividends.index >= BASELINE_DATE]
             total_dividends = dividends_since_baseline.sum()
         else:
@@ -102,8 +102,8 @@ def get_bitcoin_price():
         
         current_price = current_data['Close'].iloc[-1]
         
-        # Get historical price for Sep 19, 2024
-        historical = btc.history(start='2024-09-18', end='2024-09-20')
+        # Get historical price for Sep 19, 2025
+        historical = btc.history(start='2025-09-18', end='2025-09-20')
         if not historical.empty:
             baseline_price = historical['Close'].iloc[0]
         else:

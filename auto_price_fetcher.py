@@ -16,7 +16,7 @@ STOCKS = {
     'CSU': 'CSU.TO',           # Constellation Software
     'TOU': 'TOU.TO',           # Tourmaline Oil
     'AIF': 'AIF.TO',           # Altus Group
-    'OTEX': 'OTEX',            # Open Text
+    'OTEX': 'OTEX.TO',         # Open Text
     'CAE': 'CAE.TO',           # CAE Inc
     'NVDA': 'NVDA',            # NVIDIA
     'UNH': 'UNH',              # UnitedHealth

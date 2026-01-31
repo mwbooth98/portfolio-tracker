@@ -107,7 +107,7 @@ def get_bitcoin_price():
         if not historical.empty:
             baseline_price = historical['Close'].iloc[0]
         else:
-            baseline_price = 85000.00  # Fallback
+            baseline_price = 159413.47  # Fallback
         
         return {
             'ticker': 'BTC-CAD',

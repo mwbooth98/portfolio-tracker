@@ -149,7 +149,7 @@
         // NAVIGATION COMPONENT
         // ============================================
         
-        const Navigation = ({ currentView, setCurrentView, lastUpdate, onRefresh, loading }) => {
+        const Navigation = ({ currentView, setCurrentView, lastUpdate}) => {
           return (
             <nav className="glass-card border-b border-slate-800 sticky top-0 z-50">
               <div className="max-w-7xl mx-auto px-4 py-4">
@@ -187,14 +187,6 @@
                         })}
                       </span>
                     )}
-                    <button
-                      onClick={onRefresh}
-                      disabled={loading}
-                      className="flex items-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-all disabled:opacity-50"
-                    >
-                      <RefreshCw className={loading ? 'animate-spin' : ''} />
-                      <span className="hidden sm:inline">Refresh</span>
-                    </button>
                   </div>
                 </div>
               </div>

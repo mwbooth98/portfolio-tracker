@@ -177,11 +177,13 @@
                   <div className="flex items-center gap-4">
                     {lastUpdate && (
                       <span className="text-slate-500 text-sm hidden sm:block">
-                        Updated: {lastUpdate.toLocaleString('en-CA', {
+                        Updated: {lastUpdate.toLocaleString('en-US', {
                           month: 'short',
                           day: 'numeric',
                           hour: '2-digit',
-                          minute: '2-digit'
+                          minute: '2-digit',
+                          timeZone: 'America/New_York',  
+                          timeZoneName: 'short'
                         })}
                       </span>
                     )}

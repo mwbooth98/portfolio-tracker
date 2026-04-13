@@ -6,7 +6,7 @@
       "current_price": 158.63999938964844,
       "baseline_price": 211.6,
       "dividends_since_baseline": 0.0,
-      "last_updated": "2026-04-13T21:39:48.794817"
+      "last_updated": "2026-04-13T22:35:34.151454"
     },
     "SE": {
       "ticker": "SE",
@@ -14,14 +14,14 @@
       "current_price": 86.41000366210938,
       "baseline_price": 192.76,
       "dividends_since_baseline": 0.0,
-      "last_updated": "2026-04-13T21:40:01.626723"
+      "last_updated": "2026-04-13T22:35:46.449233"
     }
   },
   "bitcoin": {
     "ticker": "BTC-CAD",
-    "current_price": 100997.578125,
+    "current_price": 102372.0859375,
     "baseline_price": 152032.05,
-    "last_updated": "2026-04-13T21:40:04.948647"
+    "last_updated": "2026-04-13T22:35:49.803911"
   },
-  "last_updated": "2026-04-13T21:39:46.778765"
+  "last_updated": "2026-04-13T22:35:32.871739"
 }

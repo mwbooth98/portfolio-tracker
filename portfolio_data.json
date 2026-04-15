@@ -3,25 +3,25 @@
     "SHOP": {
       "ticker": "SHOP",
       "yahoo_ticker": "SHOP.TO",
-      "current_price": 172.13999938964844,
+      "current_price": 174.10000610351562,
       "baseline_price": 211.6,
       "dividends_since_baseline": 0.0,
-      "last_updated": "2026-04-15T16:07:17.164528"
+      "last_updated": "2026-04-15T17:59:12.862226"
     },
     "SE": {
       "ticker": "SE",
       "yahoo_ticker": "SE",
-      "current_price": 89.20500183105469,
+      "current_price": 89.8550033569336,
       "baseline_price": 192.76,
       "dividends_since_baseline": 0.0,
-      "last_updated": "2026-04-15T16:07:33.806562"
+      "last_updated": "2026-04-15T17:59:25.040923"
     }
   },
   "bitcoin": {
     "ticker": "BTC-CAD",
-    "current_price": 101622.96875,
+    "current_price": 101829.8984375,
     "baseline_price": 152032.05,
-    "last_updated": "2026-04-15T16:07:38.750843"
+    "last_updated": "2026-04-15T17:59:28.050946"
   },
-  "last_updated": "2026-04-15T16:07:14.917301"
+  "last_updated": "2026-04-15T17:59:11.419660"
 }

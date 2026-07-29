@@ -3,153 +3,153 @@
     "PPL": {
       "ticker": "PPL",
       "yahoo_ticker": "PPL.TO",
-      "current_price": 71.04000091552734,
+      "current_price": 70.79000091552734,
       "baseline_price": 54.43,
       "dividends_since_baseline": 2.155,
-      "last_updated": "2026-07-29T17:04:11.730230"
+      "last_updated": "2026-07-29T18:57:50.678840"
     },
     "SHOP": {
       "ticker": "SHOP",
       "yahoo_ticker": "SHOP.TO",
-      "current_price": 184.22999572753906,
+      "current_price": 187.25,
       "baseline_price": 211.6,
       "dividends_since_baseline": 0.0,
-      "last_updated": "2026-07-29T17:04:12.428595"
+      "last_updated": "2026-07-29T18:57:51.823536"
     },
     "CSU": {
       "ticker": "CSU",
       "yahoo_ticker": "CSU.TO",
-      "current_price": 3060.68505859375,
+      "current_price": 3115.0,
       "baseline_price": 4415.49,
       "dividends_since_baseline": 5.558,
-      "last_updated": "2026-07-29T17:04:13.255366"
+      "last_updated": "2026-07-29T18:57:52.914107"
     },
     "TOU": {
       "ticker": "TOU",
       "yahoo_ticker": "TOU.TO",
-      "current_price": 64.26000213623047,
+      "current_price": 64.25,
       "baseline_price": 60.06,
       "dividends_since_baseline": 1.75,
-      "last_updated": "2026-07-29T17:04:14.089949"
+      "last_updated": "2026-07-29T18:57:54.021170"
     },
     "AIF": {
       "ticker": "AIF",
       "yahoo_ticker": "AIF.TO",
-      "current_price": 48.0099983215332,
+      "current_price": 48.33000183105469,
       "baseline_price": 57.89,
       "dividends_since_baseline": 0.6,
-      "last_updated": "2026-07-29T17:04:14.913976"
+      "last_updated": "2026-07-29T18:57:55.169472"
     },
     "OTEX": {
       "ticker": "OTEX",
       "yahoo_ticker": "OTEX.TO",
-      "current_price": 36.27000045776367,
+      "current_price": 36.790000915527344,
       "baseline_price": 50.5,
       "dividends_since_baseline": 1.142,
-      "last_updated": "2026-07-29T17:04:15.870617"
+      "last_updated": "2026-07-29T18:57:56.597107"
     },
     "CAE": {
       "ticker": "CAE",
       "yahoo_ticker": "CAE.TO",
-      "current_price": 36.81999969482422,
+      "current_price": 37.369998931884766,
       "baseline_price": 38.58,
       "dividends_since_baseline": 0.0,
-      "last_updated": "2026-07-29T17:04:16.880321"
+      "last_updated": "2026-07-29T18:57:57.748022"
     },
     "NVDA": {
       "ticker": "NVDA",
       "yahoo_ticker": "NVDA",
-      "current_price": 192.2241973876953,
+      "current_price": 195.85000610351562,
       "baseline_price": 176.66,
       "dividends_since_baseline": 0.27,
-      "last_updated": "2026-07-29T17:04:17.820090"
+      "last_updated": "2026-07-29T18:57:59.152169"
     },
     "UNH": {
       "ticker": "UNH",
       "yahoo_ticker": "UNH",
-      "current_price": 424.1400146484375,
+      "current_price": 424.93499755859375,
       "baseline_price": 334.44,
       "dividends_since_baseline": 6.74,
-      "last_updated": "2026-07-29T17:04:18.823977"
+      "last_updated": "2026-07-29T18:58:00.451249"
     },
     "MSFT": {
       "ticker": "MSFT",
       "yahoo_ticker": "MSFT",
-      "current_price": 395.5050048828125,
+      "current_price": 400.0700988769531,
       "baseline_price": 516.96,
       "dividends_since_baseline": 2.73,
-      "last_updated": "2026-07-29T17:04:19.836939"
+      "last_updated": "2026-07-29T18:58:01.634296"
     },
     "BDX": {
       "ticker": "BDX",
       "yahoo_ticker": "BDX",
-      "current_price": 168.4600067138672,
+      "current_price": 167.89999389648438,
       "baseline_price": 186.03,
       "dividends_since_baseline": 2.925472,
-      "last_updated": "2026-07-29T17:04:21.121867"
+      "last_updated": "2026-07-29T18:58:03.112643"
     },
     "ORCL": {
       "ticker": "ORCL",
       "yahoo_ticker": "ORCL",
-      "current_price": 118.62999725341797,
+      "current_price": 121.38999938964844,
       "baseline_price": 307.31,
       "dividends_since_baseline": 2.0,
-      "last_updated": "2026-07-29T17:04:22.042649"
+      "last_updated": "2026-07-29T18:58:04.209025"
     },
     "ASML": {
       "ticker": "ASML",
       "yahoo_ticker": "ASML",
-      "current_price": 1553.18994140625,
+      "current_price": 1610.010009765625,
       "baseline_price": 930.5,
       "dividends_since_baseline": 9.075,
-      "last_updated": "2026-07-29T17:04:22.922931"
+      "last_updated": "2026-07-29T18:58:05.364862"
     },
     "TSM": {
       "ticker": "TSM",
       "yahoo_ticker": "TSM",
-      "current_price": 378.760009765625,
+      "current_price": 388.8500061035156,
       "baseline_price": 264.16,
       "dividends_since_baseline": 2.746,
-      "last_updated": "2026-07-29T17:04:23.810626"
+      "last_updated": "2026-07-29T18:58:06.481301"
     },
     "SE": {
       "ticker": "SE",
       "yahoo_ticker": "SE",
-      "current_price": 107.57499694824219,
+      "current_price": 109.69000244140625,
       "baseline_price": 192.76,
       "dividends_since_baseline": 0.0,
-      "last_updated": "2026-07-29T17:04:24.515269"
+      "last_updated": "2026-07-29T18:58:07.478821"
     },
     "LVMUY": {
       "ticker": "LVMUY",
       "yahoo_ticker": "LVMUY",
-      "current_price": 106.30999755859375,
+      "current_price": 109.25,
       "baseline_price": 120.24,
       "dividends_since_baseline": 1.737,
-      "last_updated": "2026-07-29T17:04:25.379033"
+      "last_updated": "2026-07-29T18:58:08.573017"
     },
     "BAESY": {
       "ticker": "BAESY",
       "yahoo_ticker": "BAESY",
-      "current_price": 107.5,
+      "current_price": 109.0199966430664,
       "baseline_price": 105.24,
       "dividends_since_baseline": 1.9380000000000002,
-      "last_updated": "2026-07-29T17:04:26.347076"
+      "last_updated": "2026-07-29T18:58:09.728143"
     },
     "DNNGY": {
       "ticker": "DNNGY",
       "yahoo_ticker": "DNNGY",
-      "current_price": 7.090000152587891,
+      "current_price": 7.170000076293945,
       "baseline_price": 10.66,
       "dividends_since_baseline": 0.0,
-      "last_updated": "2026-07-29T17:04:27.130157"
+      "last_updated": "2026-07-29T18:58:10.812937"
     }
   },
   "bitcoin": {
     "ticker": "BTC-CAD",
-    "current_price": 89835.6328125,
+    "current_price": 90540.09375,
     "baseline_price": 152032.05,
-    "last_updated": "2026-07-29T17:04:27.789567"
+    "last_updated": "2026-07-29T18:58:11.566335"
   },
-  "last_updated": "2026-07-29T17:04:11.076851"
+  "last_updated": "2026-07-29T18:57:49.110077"
 }
